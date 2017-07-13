@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+@import 'https://fonts.googleapis.com/css?family=Varela';
+body{
+	padding-top:60px;
+	font-family: 'Roboto';
+	overflow-y:scroll;
+	font-family : 'Open Sans','Varela';
+	background-color: #fdf7f7;
+	line-height:2em;
+	overflow-y:scroll;
+}
+.foot{
+  width:100% ;
+}
+.man{
+    margin-top:50px;
+}
+.mann{
+    margin-top:80px;
+}
+.me{
+    margin-top:200px;
+}
+.img{
+    width:200px;
+}
+.mine{
+    padding-top:60px;
+    padding-bottom:60px;
+}
+.texxt{
+    font-family: 'Roboto';
+}
+
+.text-center{
+	text-align:center;
+}
+
+.text-right{
+	text-align:right;
+}
+
+.text-left{
+	text-align:left;
+}
+
+.text-uppercase{
+	text-transform:uppercase;
+}
+
+.text-lowercase{
+	text-transform:lowercase;
+}
+
+.overflow{
+	overflow-y:scroll;
+	height:300px;
+}
+
+.padding-80{
+	padding-top:80px;
+	padding-bottom:80px;
+}
+
+.intro{
+	background-color:#ccc;
+	background-size:cover;
+	background-position:fixed;
+	background-image:url('../img/pattern.png');
+}
+
+.footer{
+	background-color:#383838;
+	color: #fff;
+}
+
+.copyright{
+	background-color: #1d1d1d;
+	color: #fff
+}
+
+@media print{
+	.no-print{
+		display:none;
+	}
+}
