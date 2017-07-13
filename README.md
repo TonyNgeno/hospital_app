@@ -8,10 +8,8 @@
 #### Apache
 	First we need to install Apache.
 	Run:
-	```$ sudo apt-get update
-	```
-	```$ sudo apt-get install apache2
-	```
+	`sudo apt-get update`
+	`sudo apt-get install apache2`
 	THat should Do it. For more Information go to [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04).
 #### MySQL
 	Then install MySQL by running:
